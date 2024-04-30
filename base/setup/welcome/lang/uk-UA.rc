@@ -9,7 +9,7 @@ STRINGTABLE
 BEGIN
     IDS_APPTITLE "ReactOS - Ласкаво просимо"
     IDS_DEFAULT_TOPIC_TITLE "ReactOS"
-    IDS_DEFAULT_TOPIC_DESC "Ласкаво просимо до операційної системи ReactOS.\n\nКлацніть по темі ліворуч"
+    IDS_DEFAULT_TOPIC_DESC "Ласкаво просимо до операційної системи ReactOS.\n\nКлацніть по заголовку ліворуч"
     IDS_FONTNAME "Tahoma"
     IDS_CHECKTEXT "&Показувати цей діалог знов"
     IDS_CLOSETEXT "&Вихід"
@@ -34,7 +34,7 @@ END
 /* Topic descriptions */
 STRINGTABLE
 BEGIN
-    IDS_TOPIC_DESC0 "Створення нової інсталяції ReactOS на Вашому комп'ютері чи оновлення існуючої інсталяції."
+    IDS_TOPIC_DESC0 "Створення нової інсталяції ReactOS на вашому комп'ютері чи оновлення існуючої інсталяції."
     IDS_TOPIC_DESC1 "Проглянути CD."
     IDS_TOPIC_DESC2 "Натисніть для виходу з цієї програми."
 END
